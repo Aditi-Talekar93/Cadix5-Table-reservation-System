@@ -1,0 +1,16 @@
+A:\c#\codathon_draft\bin\Debug\codathon_draft.exe.config
+A:\c#\codathon_draft\bin\Debug\codathon_draft.exe
+A:\c#\codathon_draft\bin\Debug\codathon_draft.pdb
+A:\c#\codathon_draft\obj\Debug\codathon_draft.csproj.AssemblyReference.cache
+A:\c#\codathon_draft\obj\Debug\codathon_draft.Form1.resources
+A:\c#\codathon_draft\obj\Debug\codathon_draft.Properties.Resources.resources
+A:\c#\codathon_draft\obj\Debug\codathon_draft.csproj.GenerateResource.cache
+A:\c#\codathon_draft\obj\Debug\codathon_draft.csproj.CoreCompileInputs.cache
+A:\c#\codathon_draft\obj\Debug\codathon_draft.exe
+A:\c#\codathon_draft\obj\Debug\codathon_draft.pdb
+A:\c#\codathon_draft\obj\Debug\codathon_draft.Form2_gallery.resources
+A:\c#\codathon_draft\obj\Debug\codathon_draft.Form3_about.resources
+A:\c#\codathon_draft\obj\Debug\codathon_draft.Form4_contact.resources
+A:\c#\codathon_draft\obj\Debug\codathon_draft.Form5_res.resources
+A:\c#\codathon_draft\obj\Debug\codathon_draft.Form6_menu.resources
+A:\c#\codathon_draft\obj\Debug\codathon_draft.Form7_rev.resources
